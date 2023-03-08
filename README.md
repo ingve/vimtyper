@@ -21,7 +21,7 @@ $ vimtyper < vimtyper.go > demo.tape
 $ vhs < demo.tape
 ```
 
-<img alt="Demo output" src="media/out.gif" width="600" />
+<img alt="Demo output from vimtyper-generated vhs tape" src="media/out.gif" width="600" />
 
 ## License
 
